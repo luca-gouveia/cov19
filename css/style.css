@@ -15,7 +15,7 @@ h2 {
     position: fixed;
     z-index: 1;
     top: 50%;
-    right: 35%;
+    right: 40%;
 }
 #sidebar{
     width: 350px;
@@ -63,7 +63,7 @@ h2 {
 
 @media (max-width: 800px) {
     #sidebar {
-        margin-left: -300px;
+        margin-left: -350px;
     }
     .loading {
         right: 50%;
